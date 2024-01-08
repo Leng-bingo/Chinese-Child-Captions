@@ -1,4 +1,4 @@
-# CODP-1200：Chinese-Child-Captions
+# CODP-1200：Children Oral Description of Picture（Chinese-Child-Captions）
 
 ### CODP-1200: An AIGC based benchmark for assisting in child language acquisition 
 

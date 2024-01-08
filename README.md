@@ -1,9 +1,13 @@
 # CODP-1200：Chinese-Child-Captions
+
 ### CODP-1200: An AIGC based benchmark for assisting in child language acquisition 
 
 ---
 
+![CODP-1200数据集示例](https://leng-mypic.oss-cn-beijing.aliyuncs.com/mac-img/image-20240108182044405.png)
+
 ### 数据集介绍
+
 - 目前已知最大的儿童图像描述数据集
 - 共有1200张图片
 - 每张图片对应五个中文描述，每两张图片为一组

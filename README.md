@@ -17,7 +17,7 @@
 
 百度网盘：https://pan.baidu.com/s/1t8PSPBwmm4k18rGYSj9aJw?pwd=CODP 提取码: CODP 
 
-### 如果是有CODP-1200或DDMXCap，请引用以下文章
+### 如果使用CODP-1200数据集，请引用以下文章
 
 ```latex
 @article{LENG2024102627,
